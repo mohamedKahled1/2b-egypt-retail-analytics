@@ -63,18 +63,25 @@ A centralized measure repository was built within the `Sales` table to compute c
 ![Data Model](Images/Power%20BI%20Desktop%206_21_2026%205_04_29%20AM.png)
 
 ### 2. Executive Overview Dashboard (Power BI)
-![Executive Overview](Images/2B_page-0001.jpg)
+![Executive Overview](Images/2B_page-0001.jpg.jpg)
 
 ### 3. Product & Returns Performance Dashboard (Power BI)
-![Product Performance](Images/2B_page-0002.jpg)
+![Product Performance](Images/2B_page-0002.jpg.jpg)
 
 ### 4. Target Audience & Employee KPI Dashboard (Power BI)
-![Target Audience](Images/2B_page-0003.jpg)
+![Target Audience](Images/2B_page-0003.jpg.jpg)
 
-### 5. Excel Deep-Dive Analytical Summaries (Pivot Tables)
+### 5. Excel Deep-Dive - Executive Summary (Pivot Tables)
 ![Excel Summary 1](Images/1%20-%20Excel%206_21_2026%204_35_58%20AM.png)
+
+### 6. Excel Deep-Dive - Returns Analysis
 ![Excel Summary 2](Images/1%20-%20Excel%206_21_2026%204_35_47%20AM.png)
-![Excel Summary 3](Images/1%20-%20Excel%206_21_2026%204_35_38%20AM.png)
+
+### 7. Excel Deep-Dive - Product Performance
+![Excel Summary 3](Images/1%20-%20Excel%206_21_2026%204_35_52%20AM.png)
+
+### 8. Excel Deep-Dive - Employee KPI
+![Excel Summary 4](Images/1%20-%20Excel%206_21_2026%204_35_38%20AM-png.png)
 
 ---
 
