@@ -78,7 +78,12 @@ A centralized measure repository was built within the `Sales` table to compute c
 
 ---
 
-## 📂 Repository Structure
+## 📂 Download Project Files
+📥 [Click here to access and download the Power BI (.pbix) and Excel (.xlsx) source files from Google Drive](https://drive.google.com/drive/folders/1prxhjQefPDYJ6AVZOv9Knh789gUTL6Ms?usp=sharing)
+
+---
+
+## 📁 Repository Structure
 ```text
-├── Dashboards_&_Reports/  # 2B_Egypt_Analysis.pbix & 2B_Egypt_Report.xlsx
-└── Images/                # Data model, Dashboard, and Excel screenshots
+├── Images/                # Data model, Dashboard, and Excel screenshots
+└── README.md              # Project documentation and analysis summary
