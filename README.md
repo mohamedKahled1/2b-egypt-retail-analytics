@@ -60,28 +60,28 @@ A centralized measure repository was built within the `Sales` table to compute c
 ## 📊 Dashboard & Report Preview
 
 ### 1. Relational Data Model (Power BI Star Schema)
-![Data Model](2b-egypt-retail-analytics/Images/Power%20BI%20Desktop%206_21_2026%205_04_29%20AM.png.png)
+![Data Model](2b-egypt-retail-analytics/Images/1.png)
 
 ### 2. Executive Overview Dashboard (Power BI)
-![Executive Overview](2b-egypt-retail-analytics/Images/2B_page-0001.jpg.jpg)
+![Executive Overview](2b-egypt-retail-analytics/Images/2.jpg)
 
 ### 3. Product & Returns Performance Dashboard (Power BI)
-![Product Performance](2b-egypt-retail-analytics/Images/2B_page-0002.jpg.jpg)
+![Product Performance](2b-egypt-retail-analytics/Images/3.jpg)
 
 ### 4. Target Audience & Employee KPI Dashboard (Power BI)
-![Target Audience](2b-egypt-retail-analytics/Images/2B_page-0003.jpg.jpg)
+![Target Audience](2b-egypt-retail-analytics/Images/4.jpg)
 
 ### 5. Excel Deep-Dive - Executive Summary (Pivot Tables)
-![Excel Summary 1](2b-egypt-retail-analytics/Images/1%20-%20Excel%206_21_2026%204_35_38%20AM.png)
+![Excel Summary 1](2b-egypt-retail-analytics/Images/5.png)
 
 ### 6. Excel Deep-Dive - Returns Analysis
-![Excel Summary 2](2b-egypt-retail-analytics/Images/1%20-%20Excel%206_21_2026%204_35_47%20AM.png.png)
+![Excel Summary 2](2b-egypt-retail-analytics/Images/6.png)
 
 ### 7. Excel Deep-Dive - Product Performance
-![Excel Summary 3](2b-egypt-retail-analytics/Images/1%20-%20Excel%206_21_2026%204_35_38%20AM-png.png)
+![Excel Summary 3](2b-egypt-retail-analytics/Images/7.png)
 
 ### 8. Excel Deep-Dive - Employee KPI
-![Excel Summary 4](2b-egypt-retail-analytics/Images/1%20-%20Excel%206_21_2026%204_35_58%20AM.png.png)
+![Excel Summary 4](2b-egypt-retail-analytics/Images/8.png)
 
 ---
 
