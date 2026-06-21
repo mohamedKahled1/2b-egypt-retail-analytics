@@ -72,16 +72,16 @@ A centralized measure repository was built within the `Sales` table to compute c
 ![Target Audience](2b-egypt-retail-analytics/Images/2B_page-0003.jpg.jpg)
 
 ### 5. Excel Deep-Dive - Executive Summary (Pivot Tables)
-![Excel Summary 1](2b-egypt-retail-analytics/Images/1%20-%20Excel%206_21_2026%204_35_58%20AM.png)
+![Excel Summary 1](2b-egypt-retail-analytics/Images/1%20-%20Excel%206_21_2026%204_35_38%20AM.png)
 
 ### 6. Excel Deep-Dive - Returns Analysis
-![Excel Summary 2](2b-egypt-retail-analytics/Images/1%20-%20Excel%206_21_2026%204_35_47%20AM.png)
+![Excel Summary 2](2b-egypt-retail-analytics/Images/1%20-%20Excel%206_21_2026%204_35_47%20AM.png.png)
 
 ### 7. Excel Deep-Dive - Product Performance
-![Excel Summary 3](2b-egypt-retail-analytics/Images/1%20-%20Excel%206_21_2026%204_35_52%20AM.png)
+![Excel Summary 3](2b-egypt-retail-analytics/Images/1%20-%20Excel%206_21_2026%204_35_38%20AM-png.png)
 
 ### 8. Excel Deep-Dive - Employee KPI
-![Excel Summary 4](2b-egypt-retail-analytics/Images/1%20-%20Excel%206_21_2026%204_35_38%20AM-png.png)
+![Excel Summary 4](2b-egypt-retail-analytics/Images/1%20-%20Excel%206_21_2026%204_35_58%20AM.png.png)
 
 ---
 
